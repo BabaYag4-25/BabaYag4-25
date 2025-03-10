@@ -27,7 +27,6 @@ I'm a **Data Analyst and Data Engineer Enthusiast** with a strong background in 
 ### Badges
 
 <b>My GitHub Stats</b>
-## My GitHub Stats
 
 <!-- If above fails, use an alternative deployment -->
 <!-- ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BabaYag4-25&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true) -->
