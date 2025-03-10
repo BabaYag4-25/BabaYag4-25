@@ -30,6 +30,10 @@ I'm a **Data Analyst and Data Engineer Enthusiast** with a strong background in 
 ## My GitHub Stats
 
 <!-- If above fails, use an alternative deployment -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BabaYag4-25&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BabaYag4-25&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true) -->
 
 <a href="http://www.github.com/BabaYag4-25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BabaYag4-25&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/BabaYag4-25" align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BabaYag4-25&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
